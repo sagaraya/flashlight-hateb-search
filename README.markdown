@@ -1,0 +1,3 @@
+flashlightのplugin.
+
+spotlightからはてなブックマークを検索できます

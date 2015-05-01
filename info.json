@@ -1,0 +1,13 @@
+{
+  "categories" : [
+    "Search",
+    "Utilities"
+  ],
+  "displayName" : "Search Hatena Bookmark",
+  "name" : "hateb-search",
+  "description" : "Search Hatena Bookmark",
+  "examples" : [
+    "hateb hogefuga",
+    "hateb てすと"
+  ]
+}
